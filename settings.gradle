@@ -1,0 +1,2 @@
+include ':app', ':JavaTest'
+rootProject.name='TestDemo'
